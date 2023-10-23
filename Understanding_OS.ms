@@ -1,3 +1,1 @@
-# Understanding Operating System
-
 
