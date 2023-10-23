@@ -1,3 +1,3 @@
 # A+
-Knowledge_Sharing\
-Windows Installation
+**Course Outline**
+**Lesson 1: Hardware Fundamentals**
